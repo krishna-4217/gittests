@@ -1,2 +1,2 @@
 # gittests
-Testing of git 
+Testing of git application and command
